@@ -7,7 +7,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-🔗 **[Live Dashboard on Tableau Public →](https://public.tableau.com/views/EccomerceAnalysisDashboard/ExecutiveSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+🔗 **[Live Dashboard on Tableau Public →](https://public.tableau.com/views/EccomerceAnalysisDashboard/Navigation?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
