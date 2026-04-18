@@ -1,0 +1,25 @@
+# Data files (too large for GitHub — download from Kaggle)
+data/raw/*.csv
+data/exports/*.csv
+
+# Tableau extracts (large binary files)
+*.hyper
+*.tde
+
+# Tableau autosave/backup
+*.twbr
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# IDE
+.vscode/
+.idea/
