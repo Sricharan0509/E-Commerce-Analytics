@@ -402,5 +402,5 @@ Built by **Sricharan Rachumallu** — MTech Integrated CSE (Data Science), VIT V
 
 This project demonstrates the exact analytics workflow used in consulting: take messy client data, transform it with SQL in a cloud warehouse, build dashboards that answer business questions, and present actionable recommendations.
 
-📧 [your-email@example.com](mailto:your-email@example.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE)
+📧 [your-email@example.com](mailto:sricharanr0509@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sricharan-r-9551b2229/)
